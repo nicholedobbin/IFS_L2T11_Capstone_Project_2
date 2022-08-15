@@ -1,0 +1,21 @@
+Order Number: 1002
+Customer: Minnie Mouse
+Email: minnie@disney.com
+Phone number: 012 111 222
+Location: Potchefstroom
+ 
+You have ordered the following from Goofy's Pizzeria in Potchefstroom: 
+
+2 x Pizza (R12.24) 
+1 x pasta (R11.9) 
+
+Special Instructions: no garlic please.
+
+Total: R36.38
+
+Victor Orozco is nearest to the restaurant and so s/he will be delivering your order to you at: 
+
+12 Mouse Lane
+Magic Kingdom
+
+If you need to contact the restaurant, their number is 012 333 444.
