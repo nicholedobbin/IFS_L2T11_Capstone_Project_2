@@ -18,4 +18,4 @@ The descriptions of changes made can be found in the comments at the top of each
 
 ## **Credits and References**
 Made by [Nichole Dobbin](https://github.com/nicholedobbin), for my [HyperionDev](https://www.hyperiondev.com/) course.
-See [L3T3_References.txt](src/L3T3_References.txt) for the list of references I used in this project.
+See [L2T11_References.txt](L2T11_References.txt) for the list of references I used in this project.
